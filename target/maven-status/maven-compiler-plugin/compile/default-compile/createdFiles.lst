@@ -1,0 +1,15 @@
+com\mycompany\shopjmi\resources\JakartaEE91Resource.class
+com\mycompany\shopjmi\controller\IController.class
+com\mycompany\shopjmi\model\ICopyable.class
+com\mycompany\shopjmi\controller\TiendaController.class
+com\mycompany\shopjmi\model\Categoria.class
+com\mycompany\shopjmi\controller\PromocionController.class
+com\mycompany\shopjmi\model\Promocion.class
+com\mycompany\shopjmi\model\Tienda.class
+com\mycompany\shopjmi\controller\CategoriaController.class
+com\mycompany\shopjmi\controller\repository\MemoryRepository.class
+com\mycompany\shopjmi\JakartaRestConfiguration.class
+com\mycompany\shopjmi\controller\Controller.class
+com\mycompany\shopjmi\controller\repository\IRepository.class
+com\mycompany\shopjmi\model\Model.class
+com\mycompany\shopjmi\controller\AbstractController.class
